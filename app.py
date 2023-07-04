@@ -7,9 +7,9 @@ img_url = 'https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.n
 st.image(img_url)
 
 option1 = st.sidebar.selectbox(
-    'Menu',
-     ('페이지1', '페이지2', '페이지3'))
+    '10G 모듈',
+     ('15KM', '40KM', '80KM'))
 
 option2 = st.sidebar.selectbox(
-    'Menu2',
-     ('페이지1', '페이지2', '페이지3'))
+    '2.5G 모듈',
+     ('15KM', '40KM', '80KM'))
