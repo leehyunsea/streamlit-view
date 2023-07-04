@@ -14,8 +14,6 @@ st.sidebar.button('40km')
 st.sidebar.button('80km')
 
 st.sidebar.title('2. 2.5G 모듈')
-
-
 st.sidebar.title('3. ')
 st.sidebar.title('4. ')
 st.sidebar.title('5. ')
