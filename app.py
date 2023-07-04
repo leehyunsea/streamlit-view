@@ -9,3 +9,4 @@ st.image(img_url)
 option = st.sidebar.selectbox(
     '종류',
      ('10G 모듈', '2.5G 모듈', '페이지3'))
+     ('1', '2', '3'))
