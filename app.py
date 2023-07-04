@@ -8,7 +8,7 @@ st.image(img_url)
 
 st.sidebar.title('# 종류')
 st.sidebar.title('1. 10G 모듈')
-st.sidebar.checkbox('15KM')
+st.button('15KM')
 st.sidebar.checkbox('40KM')
 st.sidebar.checkbox('80KM')
 st.sidebar.title('2. ')
