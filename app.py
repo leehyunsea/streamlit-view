@@ -7,14 +7,17 @@ img_url = 'https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.n
 st.image(img_url)
 
 st.sidebar.title('# 종류')
+
 st.sidebar.title('1. 10G 모듈')
 st.sidebar.button('15km')
 st.sidebar.button('40km')
 st.sidebar.button('80km')
+
 st.sidebar.title('2. 2.5G 모듈')
 st.sidebar.button('15km')
 st.sidebar.button('40km')
 st.sidebar.button('80km')
+
 st.sidebar.title('3. ')
 st.sidebar.title('4. ')
 st.sidebar.title('5. ')
