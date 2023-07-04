@@ -12,4 +12,3 @@ st.sidebar.title('2. ')
 st.sidebar.title('3. ')
 st.sidebar.title('4. ')
 st.sidebar.title('5. ')
-
