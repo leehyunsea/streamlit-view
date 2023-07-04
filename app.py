@@ -13,3 +13,7 @@ option1 = st.sidebar.selectbox(
 option2 = st.sidebar.selectbox(
     '2.5G 모듈',
      ('15KM', '40KM', '80KM'))
+
+option3 = st.sidebar.selectbox(
+    'MENU',
+     ('1', '2', '3'))
