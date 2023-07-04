@@ -8,10 +8,7 @@ st.image(img_url)
 
 st.sidebar.title('# 종류')
 st.sidebar.title('1. 10G 모듈')
-def main() :
-    st.button('15km')
-if __name__ == "__main__" :
-    main()
+st.button('15km')
 st.sidebar.checkbox('40KM')
 st.sidebar.checkbox('80KM')
 st.sidebar.title('2. ')
